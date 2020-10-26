@@ -1,6 +1,6 @@
 {
-  "name": "comp229-f2020-assignment1",
-  "version": "0.0.2",
+  "name": "comp229-f2020-assignment2",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -35,5 +35,17 @@
     "@types/passport": "^1.0.4",
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
-  }
+  },
+  "description": "Assignment 2 - Nguyen Khang Nguyen",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickynguyen1707/COMP229-F2020-Assignment2.git"
+  },
+  "author": "Nguyen Khang Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickynguyen1707/COMP229-F2020-Assignment2/issues"
+  },
+  "homepage": "https://github.com/rickynguyen1707/COMP229-F2020-Assignment2#readme"
 }
